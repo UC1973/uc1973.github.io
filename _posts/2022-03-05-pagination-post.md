@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pagination Post"
-author: "Chester"
-tags: Tale
+title: "Test"
+author: "SKY"
+tags: ICK
 ---
 
 {% include figure.html %}
