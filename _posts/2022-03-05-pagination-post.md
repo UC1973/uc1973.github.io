@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: default
 title: "Test"
 author: "SKY"
 tags: ICK
 ---
 
 <!-- {% include figure.html %} -->
-{% https://korea-dashboard.herokuapp.com %}
+<iframe
+  src="https://korea-dashboard.herokuapp.com"
+  style="width:110%; height:600px;"
+></iframe>
