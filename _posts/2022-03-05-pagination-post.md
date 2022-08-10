@@ -5,4 +5,5 @@ author: "SKY"
 tags: ICK
 ---
 
-{% include figure.html %}
+<!-- {% include figure.html %} -->
+{% https://korea-dashboard.herokuapp.com %}
