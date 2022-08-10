@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Test"
+title: "Test 2"
 author: "SKY"
 tags: ICK
 ---
