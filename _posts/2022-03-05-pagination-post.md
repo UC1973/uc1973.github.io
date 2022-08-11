@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Test 2"
-author: "SKY"
+title: "예산집행현황"
+author: "K.-Y. Song"
 tags: ICK
 ---
 
 
 <iframe
   src="https://uctest.herokuapp.com"
-  style="width:110%; height:600px; border: none"
+  style="width:120%; height:700px; border: none; margin-left: -80px; margin-right: -80px;"
 ></iframe>

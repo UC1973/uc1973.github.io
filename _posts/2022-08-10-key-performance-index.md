@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "핵심성과지표"
+author: "K.-Y. Song"
 comments: true
-tags: Tale
+tags: ICK
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
